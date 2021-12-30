@@ -1,0 +1,9 @@
+has firstName, lastName, contact 
+user should be able to search by firstName, lastName, contact
+user should be able to add/ update contact
+
+
+
+models ->
+Contact : firstName, lastName, contact 
+
