@@ -1,0 +1,18 @@
+//Planning 
+
+models -> book, user -> subclass => admin user, bookstore/bookcollection
+
+book
+1. memebrs => next, previous, title, author, content
+2. functions => next, previous, goTo, startRead, resumeRead
+
+user 
+members => name
+functios => register, login, logout , purchase, rate, listMy books, startRead, resumeRead
+ 
+bookstore 
+member => 
+function => addABook => only admin should be able to do this
+
+
+
